@@ -5,6 +5,7 @@ public class Calculadora {
 
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
+        
         int numero_veces = 0;
 
         while (numero_veces != 10) {
